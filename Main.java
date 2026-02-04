@@ -20,7 +20,7 @@ public class Main {
         double b = sc.nextDouble();
 
         switch (choice) {
-            case 1:  
+            case 1:  System.out.println("Result: " + (a * b));
                 break;
             case 2: 
                 break;
